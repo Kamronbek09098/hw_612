@@ -9,6 +9,5 @@ root.render(<>
 <CartPage/> <br/><br/><br/><br/><br/><br/><br/><br/><br/> 
 <BookPage/> <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <CoursePage/> <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 </>);
 

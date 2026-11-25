@@ -7,7 +7,7 @@ import Comments from "./Comments.tsx";
 import Footer from "./Footer.tsx";
 
 export default function CoursePage() {
-  return <div className="flex flex-col gap-16 w-360 bg-[#111315]">
+  return <div className="flex flex-col gap-16 w-full bg-[#111315]">
     <div className="px-8 pt-5">
       <Menu/>
       <Title page="O'rganish" title="Shaxmat donalari bilan tanishuv"/>
