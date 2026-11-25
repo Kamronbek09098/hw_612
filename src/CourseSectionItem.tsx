@@ -2,7 +2,7 @@ import Lesson from "./Lesson.tsx";
 import {useState} from "react";
 
 export default function CourseSectionItem() {
-  const [isOpen, setIsOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(true);
 
   return <div className="select-none">
     <div className="flex flex-row justify-between items-center h-16 px-5" onClick={() => setIsOpen(!isOpen)}>
