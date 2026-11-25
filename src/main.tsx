@@ -1,6 +1,6 @@
 import {createRoot} from "react-dom/client";
 import './styles.css';
-import BookPage from "./BookPage.tsx";
+import CartPage from "./CartPage.tsx";
 
 const root = createRoot(document.getElementById('root')!);
-root.render(<BookPage/>);
+root.render(<CartPage/>);
